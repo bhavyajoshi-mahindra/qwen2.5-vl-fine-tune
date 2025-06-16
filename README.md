@@ -1,4 +1,4 @@
-# Sarvam-AI VLM Assignment 
+# Sarvam-AI VLM Assignment
 
 This README consolidates all steps from ground truth generation, image enhancement, OCR extraction, model fine-tuning, and benchmarking using Qwen2.5-VL and PyTesseract OCR systems on the given images.
 
@@ -70,7 +70,9 @@ python pytesseract_ocr.py
 
 ## 4. 🧠 Fine-Tuning Qwen2.5-VL with LLaMA-Factory
 
-We fine-tuned **Qwen2.5-VL** using [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) on Gujarati OCR tasks.
+**Prerequisite — Download Weights**
+Download the Qwen 2.5‑VL base weights from the provided link and copy them to `5_finetuning_qwen25_vl/` so that LLaMA‑Factory can load the checkpoint.
+Link : https://drive.google.com/drive/folders/1Wdc6IWrJbAQJx7uuG45WXYKBEvz2Tr7K?usp=sharing
 
 ### Dataset Split:
 
