@@ -148,9 +148,11 @@ The script will:
 
 ---
 
-## 9. Quantization of Fine-Tuned Qwen 2.5 VL model
-1. Using AWQ
-2. Using GPTA
+## 9. Quantization of Fine-Tuned Qwen 2.5 VL Model
+
+1. Using [**AWQ**](https://github.com/casper-hansen/AutoAWQ) (AutoAWQ)
+2. Using [**GPTQ**](https://github.com/ModelCloud/GPTQModel) (GPTQModel)
+
 
 **All the above steps are mentioned in the Qwen2_5_VL_finetune_quantize_colab.ipynb notebook**                                              
 TODO: Quantized Model Inference Code 
