@@ -4,6 +4,8 @@
 
 > 📄 **Detailed Report**: Please refer to [`ChatGPT_Generated_Evaluation_Report.md`](ChatGPT_Generated_Evaluation_Report.md) for an in-depth comparison of all results, metrics, and insights.
 
+> The **'reference'** folder consist of the Ground Truth of the test data which will be used to evaluate the OCR outputs. 
+
 ---
 
 ## 1 · Key Scripts
