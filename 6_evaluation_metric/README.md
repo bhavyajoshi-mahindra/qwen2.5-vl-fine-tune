@@ -1,4 +1,4 @@
-# Image OCR Benchmark - 
+# Image OCR Benchmark 
 
 > **Goal**  Benchmark Qwen‑2.5 VL (base & LoRA‑fine‑tuned) against open‑source PyTesseract on a Gujarati test set, evaluating Word‑, Character‑ and Layout‑level accuracy.
 
