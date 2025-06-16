@@ -148,6 +148,12 @@ The script will:
 
 ---
 
+## 10. Quantization of Fine-Tuned Qwen 2.5 VL model
+> Using AWQ
+> Using GPTA
+
+**All the above steps are mentioned in the Qwen2_5_VL_finetune_quantize_colab.ipynb notebook**
+
 ## 9. Troubleshooting & Tips
 
 | Symptom                 | Possible Cause                 | Quick Fix                                            |
