@@ -152,7 +152,7 @@ The script will:
 1. Using AWQ
 2. Using GPTA
 
-**All the above steps are mentioned in the Qwen2_5_VL_finetune_quantize_colab.ipynb notebook**
+**All the above steps are mentioned in the Qwen2_5_VL_finetune_quantize_colab.ipynb notebook**                                              
 TODO: Quantized Model Inference Code 
 
 ## 10. Troubleshooting & Tips
