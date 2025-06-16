@@ -143,8 +143,8 @@ The script will:
 
 ## 8. Download the Final Model
 
-> 📦 **Model link**: *To be provided separately.*
-> The archive contains the merged weights and `tokenizer.json`.
+> 📦 **Model link**:
+> https://drive.google.com/drive/folders/1Wdc6IWrJbAQJx7uuG45WXYKBEvz2Tr7K?usp=sharing
 
 ---
 
