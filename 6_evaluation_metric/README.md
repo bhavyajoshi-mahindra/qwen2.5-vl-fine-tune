@@ -55,7 +55,7 @@ All five folders mirror the ground‑truth naming scheme (e.g. `Swarupsannidhan_
 # 1. Inference on each model variant
 python qwen2_5_vl_inference.py 
 
-# 2. Evaluation (ground_truth/ holds GT .txt files)
+# 2. Get combined evaluation of result type vs ground truth
 python combine_evaluation.py 
 
 # 3. Heatmap visualisation
