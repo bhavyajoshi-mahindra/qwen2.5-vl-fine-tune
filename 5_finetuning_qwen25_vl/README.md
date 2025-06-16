@@ -75,6 +75,7 @@ The dataset follows a `sharegpt` format tailored for multi-modal inputs:
   "columns": { "messages": "messages", "images": "images" }
 }
 ```
+**Note : train_dataset.json is provided in 4_train_test_split**
 
 ### 4.2 Update the Training Config
 
