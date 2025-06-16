@@ -149,8 +149,8 @@ The script will:
 ---
 
 ## 10. Quantization of Fine-Tuned Qwen 2.5 VL model
-> Using AWQ
-> Using GPTA
+1. Using AWQ
+2. Using GPTA
 
 **All the above steps are mentioned in the Qwen2_5_VL_finetune_quantize_colab.ipynb notebook**
 
