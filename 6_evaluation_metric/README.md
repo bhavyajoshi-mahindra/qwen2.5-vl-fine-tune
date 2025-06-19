@@ -1,10 +1,8 @@
-# Image OCR Benchmark 
+# Gujarati OCR Benchmark — Process & Artifacts
 
 > **Goal**  Benchmark Qwen‑2.5 VL (base & LoRA‑fine‑tuned) against open‑source PyTesseract on a Gujarati test set, evaluating Word‑, Character‑ and Layout‑level accuracy.
 
 > 📄 **Detailed Report**: Please refer to [`ChatGPT_Generated_Evaluation_Report.md`](ChatGPT_Generated_Evaluation_Report.md) for an in-depth comparison of all results, metrics, and insights.
-
-> The **'reference'** folder consist of the Ground Truth of the test data which will be used to evaluate the OCR outputs. 
 
 ---
 
@@ -57,7 +55,7 @@ All five folders mirror the ground‑truth naming scheme (e.g. `Swarupsannidhan_
 # 1. Inference on each model variant
 python qwen2_5_vl_inference.py 
 
-# 2. Get combined evaluation of result type vs ground truth
+# 2. Evaluation (ground_truth/ holds GT .txt files)
 python combine_evaluation.py 
 
 # 3. Heatmap visualisation
