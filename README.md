@@ -155,4 +155,3 @@ Refer to [`ChatGPT_Generated_Evaluation_Report.md`](ChatGPT_Generated_Evaluation
 * [DocRes](https://github.com/ZZZHANG-jx/DocRes)
 * [Tesseract](https://github.com/tesseract-ocr/tesseract)
 
-Happy benchmarking! 🎯
