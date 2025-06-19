@@ -89,7 +89,8 @@ if __name__ == "__main__":
         "qwen25vl_base_original": "qwen25_vl_base_original_images_results",
         "qwen25vl_lora_enhanced": "qwen25_vl_lora_finetune_enhanced_images_results",
         "qwen25vl_lora_original": "qwen25_vl_lora_finetune_original_images_results",
-        "pytesseract": "pytesseract_ocr_results"
+        "pytesseract_original_imaages": "pytesseract_ocr_original_images_results",
+        "pytesseract_enhanced_imaages": "pytesseract_ocr_enhanced_image_results"
     }
 
     for label, folder in test_folders.items():
