@@ -1,4 +1,4 @@
-# Sarvam-AI VLM Assignment
+# Qwen-2.5 Fine-Tune for custom OCR
 
 This README consolidates all steps from ground truth generation, image enhancement, OCR extraction, model fine-tuning, and benchmarking using Qwen2.5-VL and PyTesseract OCR systems on the given images.
 
